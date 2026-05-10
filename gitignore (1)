@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+tictactoe
+tictactoe.exe
+*.out
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
